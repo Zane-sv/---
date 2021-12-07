@@ -1,0 +1,4 @@
+@media(max-width: 575px){
+	table{width: 100%;}
+	td{height: 90px;}
+}
